@@ -1,2 +1,2 @@
 # mathtutorial
-A simple web page for a Mathematics Tutorial website made usign HTML and CSS.
+A web page for a Mathematics Tutorial website built using HTML and CSS.
